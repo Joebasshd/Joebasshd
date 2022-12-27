@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joebasshd
+- 👋 Hi, I’m Joseph Edet
 - 👀 I’m interested in Data Anaytics, Data Science, Machine Learning & AI
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on any Data-related project
